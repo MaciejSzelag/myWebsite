@@ -1,0 +1,19 @@
+# ==============================================================================
+# Robots.txt for Maciej Szeląg Web Developer (https://maciejszelag.co.uk)
+# ==============================================================================
+
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /config.php
+Disallow: /router.php
+
+# Googlebot specific directives
+User-agent: Googlebot
+Allow: /
+Allow: /assets/
+Allow: /styles.css
+Allow: /script.js
+
+# Sitemap location for Google Search Console & Bing Webmaster Tools
+Sitemap: https://maciejszelag.co.uk/sitemap.xml

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage (Primary Landing Page) -->
+  <url>
+    <loc>https://maciejszelag.co.uk/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://maciejszelag.co.uk/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://maciejszelag.co.uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maciejszelag.co.uk/"/>
+    <image:image>
+      <image:loc>https://maciejszelag.co.uk/assets/checkmat_live.png</image:loc>
+      <image:title>Checkmat BJJ Plymouth - Bespoke Website by Maciej Szeląg</image:title>
+      <image:caption>Official live client website designed and developed for Checkmat BJJ Plymouth academy</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Technical Blog Hub -->
+  <url>
+    <loc>https://maciejszelag.co.uk/blog.php</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://maciejszelag.co.uk/blog.php"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maciejszelag.co.uk/blog.php"/>
+    <image:image>
+      <image:loc>https://maciejszelag.co.uk/assets/blog_security.jpg</image:loc>
+      <image:title>Web Cybersecurity and Architecture Insights</image:title>
+    </image:image>
+  </url>
+
+  <!-- Individual Technical Publications -->
+    <url>
+    <loc>https://maciejszelag.co.uk/article.php?slug=web-security-essentials</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://maciejszelag.co.uk/article.php?slug=web-security-essentials"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maciejszelag.co.uk/article.php?slug=web-security-essentials"/>
+    <image:image>
+      <image:loc>https://maciejszelag.co.uk/assets/blog_security.jpg</image:loc>
+      <image:title>Securing Modern Web Apps: Essential Defenses for Growing Businesses</image:title>
+      <image:caption>Cybersecurity and web development glowing digital shield and code protection matrix</image:caption>
+    </image:image>
+  </url>
+    <url>
+    <loc>https://maciejszelag.co.uk/article.php?slug=pragmatic-ai-for-business</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://maciejszelag.co.uk/article.php?slug=pragmatic-ai-for-business"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maciejszelag.co.uk/article.php?slug=pragmatic-ai-for-business"/>
+    <image:image>
+      <image:loc>https://maciejszelag.co.uk/assets/blog_ai.jpg</image:loc>
+      <image:title>Pragmatic AI for Modern Websites: Leveraging LLMs &amp; Generative Search</image:title>
+      <image:caption>Artificial intelligence in web development and generative search neural network connections</image:caption>
+    </image:image>
+  </url>
+  
+</urlset>

@@ -1,0 +1,32 @@
+{
+  "name": "Maciej Szeląg | Web Developer Plymouth",
+  "short_name": "Maciej Szeląg",
+  "description": "Bespoke high-performance web development for growing businesses across Plymouth, Devon, Cornwall and the UK.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060911",
+  "theme_color": "#060911",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en-GB",
+  "categories": ["business", "productivity", "utilities"]
+}
