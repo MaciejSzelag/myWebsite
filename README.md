@@ -29,7 +29,6 @@ Built from scratch using **pure (Vanilla) PHP** — free from bloated third-part
 - [x] **Modern Landing Page** – Engaging presentation of my skills, services, and profile.
 - [x] **Portfolio Showcase** – Interactive presentation of past client work and personal projects.
 - [x] **Integrated Blog** – Lightweight, custom publishing system for articles and tech guides.
-- [x] **Contact Form** – Direct, secure channel for clients and collaborators to get in touch.
 - [x] **Fully Responsive (RWD)** – Pixel-perfect experience across desktops, tablets, and smartphones.
 - [x] **Performance Focused** – Clean, semantic HTML, lightweight styling, and lightning-fast server responses.
 
@@ -39,7 +38,6 @@ Built from scratch using **pure (Vanilla) PHP** — free from bloated third-part
 
 - **Backend:** Pure PHP (Vanilla PHP)
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
-- **Database / Data Storage:** MySQL / SQLite
 - **Version Control:** Git & GitHub
 
 ---
